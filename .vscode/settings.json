@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "__nullptr": "c",
+        "initializer_list": "cpp",
+        "exception": "cpp",
+        "stdexcept": "cpp",
+        "*.tpp": "cpp",
+        "vector": "cpp"
+    }
+}
