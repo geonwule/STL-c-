@@ -2,13 +2,13 @@
 C++ STL을 직접 구현해보았습니다.
 
 # 🗂️ 목차
-- vector
-- stack
-- list
-- map
-- queue
-- hash
-- unordered_set
+- [ ] ✨[Feature] vector
+- [ ] ✨[Feature] stack
+- [ ] ✨[Feature] list
+- [ ] ✨[Feature] map
+- [ ] ✨[Feature] queue
+- [ ] ✨[Feature] hash
+- [ ] ✨[Feature] unordered_set
 
 <!--
 https://www.d5br5.dev/blog/pro_tip/tech_stack_icon  // 기술스택 뱃지 활용법 블로그
